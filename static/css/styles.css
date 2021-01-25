@@ -1,0 +1,68 @@
+h2 {
+    color:white;
+    margin-top:2%;
+    font-size:35px;
+    font-family: 'Special Elite', cursive;
+    }
+    
+    .imagea{
+    margin-top:34%;
+    font-size:45px;
+    font-weight:bolder;
+    }
+    a{
+    text-decoration:none;
+    }
+    .image{
+    font-family: 'Special Elite', cursive;
+    margin-bottom:18%;
+    
+    }
+    body{
+   
+    background-image:url(https://images.unsplash.com/photo-1507643179773-3e975d7ac515?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    }
+    
+    .modalcard{
+    background-color:rgba(10,10,10,0.8);
+    color:white;
+    padding:3%;
+    border:none;
+    }
+    h3{
+    color:white;
+    font-family: 'Special Elite', cursive;
+    }
+    #locations, #categorys{
+    color:white;
+    font-family: 'Special Elite', cursive;
+    }
+    hr{
+    background:white;
+    height:2px;
+    }
+    #imageheader{
+    font-family: 'Yeseva One', cursive;
+    }
+    
+    .imgdesc{
+    font-family: 'Vollkorn', serif;
+    }
+    
+    #found{
+    margin-bottom:3%;
+    }
+    #btn{
+    margin-right:6px;
+    }
+    .cat{
+    float:center;
+    background:gray;
+    padding:4px;
+    border-radius:6px;
+    }
+    
